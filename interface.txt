@@ -1,0 +1,7 @@
+1.Using Abstract we can not achieve multiple inheritance but using an Interface we can achieve multiple inheritance.
+2.We can not declare a member field in an Interface.
+3.We can not use any access modifier , public , private , protected , internal etc. because within an interface by default everything is public.
+4.An Interface member cannot be defined using the keyword static, virtual, abstract or sealed.
+5.An Abstract class doesn't provide full abstraction but an interface does provide full abstraction.
+6.An Interface only contains method and property prototypes.
+7.The most important difference between Interfaces and Abstract Classes is the semantic difference.An Interface defines what something can do , and an Abstract Class defines what something is.
